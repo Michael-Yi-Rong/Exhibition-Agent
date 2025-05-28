@@ -1,0 +1,11 @@
+# Python == 3.7
+
+numpy
+pandas
+torch
+PIL
+transformers
+sklearn
+matplotlib
+neo4j
+sentence_transformers
