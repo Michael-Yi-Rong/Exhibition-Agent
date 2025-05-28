@@ -1,5 +1,5 @@
 # Exhibition Agent
-Museum Artifact Knowledge Graph Construction Project README
+Museum Artifact Knowledge Graph Construction Project
 
 ## Main Features
 - Data Acquisition and Processing: Utilized APIs from the Victoria and Albert Museum website to batch crawl data, followed by cleaning JSON-structured data and converting it into CSV format and DataFrame.
@@ -15,11 +15,11 @@ Museum Artifact Knowledge Graph Construction Project README
 ## Technology
 
 - Data Preprocessing: Python was used for data cleaning and conversion into suitable structures for analysis.
-- 
+  
 - Database Management: Neo4j was utilized for storing and visualizing relational graphs of artifacts and related information.
-- 
+  
 - Cross-modal Retrieval: The CLIP model was applied for similarity calculations between images and text.
-- 
+  
 - Question Answering System: Based on the BERT model, this system supports accurate querying of artifact-related information.
-- 
+  
 - Recommendation System: The BGE model was employed for predicting user interests and recommending relevant content.
